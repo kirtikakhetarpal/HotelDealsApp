@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+
+
+#leftMenu_old
+{
+   float: left; 
+   height: 500px;
+	width : 600px;
+	top : 100px; 
+   background: #c0c0c0; 
+   color: #035A85; 
+   font-family: Verdana, Arial, Helvetica;
+}
+
+
+#rightMenu_old
+{
+	float: left; 
+	height: 30%;
+	width : 100%
+    color: #ff0080; 
+    top : 100px;
+    left: 100px;
+    font-family: Verdana, Arial, Helvetica;
+}
+
+#availableDeals_old
+{
+	heigth : 50%;
+	width : 100%;
+	color : black;
+	background-image: #ff0080;
+}
+
+#body_old {
+       background-image: url("./../images/bgImage.jpg");
+}
+#body {
+    background-image: url("./../images/bgImage.jpg");
+    background-color: white;
+}
+
+#hotelDealTable
+{
+
+  display: block;
+  height: 400px;
+  overflow-y: scroll;
+  border: 1px;
+}
+
+
+
+
+  
+  
